@@ -1,0 +1,33 @@
+C:\Users\HP\source\repos\CM_Lab6Sem(2)\CM_Lab6Sem(2)\bin\Debug\CM_Lab6Sem(2).exe.config
+C:\Users\HP\source\repos\CM_Lab6Sem(2)\CM_Lab6Sem(2)\bin\Debug\CM_Lab6Sem(2).exe
+C:\Users\HP\source\repos\CM_Lab6Sem(2)\CM_Lab6Sem(2)\bin\Debug\CM_Lab6Sem(2).pdb
+C:\Users\HP\source\repos\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem_2_.Form1.resources
+C:\Users\HP\source\repos\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem_2_.Properties.Resources.resources
+C:\Users\HP\source\repos\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).csproj.GenerateResource.cache
+C:\Users\HP\source\repos\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).exe
+C:\Users\HP\source\repos\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).pdb
+C:\Users\HP\source\repos\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem_2_.Form2.resources
+C:\Users\HP\Desktop\CM_Lab6Sem(2)\CM_Lab6Sem(2)\bin\Debug\CM_Lab6Sem(2).exe.config
+C:\Users\HP\Desktop\CM_Lab6Sem(2)\CM_Lab6Sem(2)\bin\Debug\CM_Lab6Sem(2).exe
+C:\Users\HP\Desktop\CM_Lab6Sem(2)\CM_Lab6Sem(2)\bin\Debug\CM_Lab6Sem(2).pdb
+C:\Users\HP\Desktop\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).csprojAssemblyReference.cache
+C:\Users\HP\Desktop\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem_2_.Form1.resources
+C:\Users\HP\Desktop\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem_2_.Form2.resources
+C:\Users\HP\Desktop\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem_2_.Properties.Resources.resources
+C:\Users\HP\Desktop\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).csproj.GenerateResource.cache
+C:\Users\HP\Desktop\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).exe
+C:\Users\HP\Desktop\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).pdb
+C:\Users\HP\Desktop\6 семестр\Численные методы\CM_Lab6Sem(2)\CM_Lab6Sem(2)\bin\Debug\CM_Lab6Sem(2).exe.config
+C:\Users\HP\Desktop\6 семестр\Численные методы\CM_Lab6Sem(2)\CM_Lab6Sem(2)\bin\Debug\CM_Lab6Sem(2).exe
+C:\Users\HP\Desktop\6 семестр\Численные методы\CM_Lab6Sem(2)\CM_Lab6Sem(2)\bin\Debug\CM_Lab6Sem(2).pdb
+C:\Users\HP\Desktop\6 семестр\Численные методы\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).csprojAssemblyReference.cache
+C:\Users\HP\Desktop\6 семестр\Численные методы\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem_2_.Form1.resources
+C:\Users\HP\Desktop\6 семестр\Численные методы\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem_2_.Form2.resources
+C:\Users\HP\Desktop\6 семестр\Численные методы\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem_2_.Properties.Resources.resources
+C:\Users\HP\Desktop\6 семестр\Численные методы\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).csproj.GenerateResource.cache
+C:\Users\HP\Desktop\6 семестр\Численные методы\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\6 семестр\Численные методы\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).exe
+C:\Users\HP\Desktop\6 семестр\Численные методы\CM_Lab6Sem(2)\CM_Lab6Sem(2)\obj\Debug\CM_Lab6Sem(2).pdb
